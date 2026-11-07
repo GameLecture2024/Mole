@@ -16,7 +16,7 @@ MonoBehaviour:
   columns: 3
   spacing: {x: 3, y: 2}
   center: {x: 0, y: 0}
-  gameSeconds: 5
+  gameSeconds: 30
   upSeconds: 0.8
   transitionSeconds: 0.15
   intervalSeconds: 0.25
