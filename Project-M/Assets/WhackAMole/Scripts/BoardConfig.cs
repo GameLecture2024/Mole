@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace WhackAMole
 {
-    [CreateAssetMenu(menuName = "Whack A Mole/Board Config")]
+    [CreateAssetMenu(menuName = "Whack A Mole/Board Config/DefaultConfig")]
     public sealed class BoardConfig : ScriptableObject
     {
         [Min(1)] public int rows = 3;
